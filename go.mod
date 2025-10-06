@@ -1,4 +1,4 @@
-module github.com/OpsHelmInc/localdevtools/ohsse
+module github.com/OpsHelmInc/ohsse
 
 go 1.23.0
 

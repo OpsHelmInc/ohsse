@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/OpsHelmInc/localdevtools/ohsse"
+	"github.com/OpsHelmInc/ohsse"
 	cloudevents "github.com/cloudevents/sdk-go/v2"
 )
 
