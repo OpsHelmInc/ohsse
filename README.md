@@ -23,5 +23,5 @@ If you already have a golang environment setup, you can compile the source local
 
 - checkout this repo: `git clone https://github.com/OpsHelmInc/ohsse.git`
 - change the `cmd` directory: `cd ohsse`
-- build the binary: `go build . -out ohsse`
+- build the binary: `go build . -o ohsse`
 - run the binary locally with your api key: `./ohsse -key <apikey>`
